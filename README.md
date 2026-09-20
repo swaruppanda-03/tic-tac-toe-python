@@ -41,7 +41,11 @@ The board has 9 positions:
 Players take turns entering a number from 1 to 9.
 
 For example:
+
+```text
 Player X, choose a position (1-9): 5
+```
+
 The player who gets three marks in a row wins.
 
 ## Concepts Used
