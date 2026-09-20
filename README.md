@@ -57,6 +57,7 @@ This project helped me practice:
 - Loops
 - Conditional statements
 - User input
+- Exception handling
 - Boolean logic
 - Basic game logic
 
