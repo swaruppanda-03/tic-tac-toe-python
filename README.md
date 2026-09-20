@@ -26,11 +26,7 @@ python3 tic_tac_toe.py
 
 The board has 9 positions:
 
-| 1 | 2 | 3 |
-  --+---+--
-| 4 | 5 | 6 |
-  --+---+--
-| 7 | 8 | 9 |
+1 | 2 | 3 ---+---+--- 4 | 5 | 6 ---+---+--- 7 | 8 | 9
 
 
 Players take turns entering a number from 1 to 9.
@@ -40,6 +36,7 @@ Player X, choose a position (1-9): 5
 The player who gets three marks in a row wins.
 
 *Concepts Used*
+
 This project helped me practice:
 - Variables
 - Lists
